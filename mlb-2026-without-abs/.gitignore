@@ -1,0 +1,7 @@
+*.parquet
+challenges_2026.csv
+statcast_*.csv
+sample_day.csv
+feed.json
+__pycache__/
+*.log
